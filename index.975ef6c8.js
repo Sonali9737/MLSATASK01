@@ -27090,11 +27090,11 @@ var _stylesCss = require("./styles.css");
     name: "Sonali Singh",
     title: "Web Designer & Cloud Enthusiasts",
     email: "aashi041c@gmail.com",
-    gitHub: "https://github.com/Sonali9737",
-    instagram: "https://www.instagram.com/_sonrisaaa_1?utm_source=qr&igsh=MXByajloMGJrZmcwdA==",
-    linkedIn: "https://www.linkedin.com/in/sonali-singh2003?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    gitHub: "Sonali9737",
+    instagram: "_sonrisaaa_1",
+    linkedIn: "sonali-singh2003",
     medium: "",
-    twitter: "https://twitter.com/Sonali_singh456",
+    twitter: "Sonali_singh456",
     youTube: ""
 };
 const primaryColor = "#4E567E";
